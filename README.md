@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micael</h1>
-<h3 align="center">there are no problems only challengeseloper from India</h3>
+<h3 align="center">there are no problems only challenges</h3>
 
 <h3 align="left">Connect with me: <a href="mailto:micael.dahlgren@nivico.se">micael.dahlgren@nivico.se</a></h3>
 <p align="left">
